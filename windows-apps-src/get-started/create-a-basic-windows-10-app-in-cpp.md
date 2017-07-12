@@ -87,6 +87,10 @@ We'll start with the basics:
 
 5.  Choose the **OK** button.
 
+6.  Choose the **OK** button on the **New Universal Project** dialog box. See [Choose a UWP version](https://docs.microsoft.com/en-us/windows/uwp/updates-and-versions/choose-a-uwp-version) for Which version should I choose?
+
+ ![New Universal Windows Project dialog box](images/vs2017-uwp-platversion.png)
+
 > [!NOTE]
 > If this is the first time you have used Visual Studio, you might see a Settings dialog asking you to enable **Developer mode**. Developer mode is a special setting that enables certain features, such as permission to run apps directly, rather than only from the Store. For more information, please read [Enable your device for development](enable-your-device-for-development.md). To continue with this guide, select **Developer mode**, click **Yes**, and close the dialog.
 
